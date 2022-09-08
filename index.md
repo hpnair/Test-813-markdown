@@ -6,3 +6,11 @@
 ###### H6 Header
 
 ![Image of Goldfish](https://github.com/EliSchwartz/imagenet-sample-images/blob/master/n01443537_goldfish.JPEG)
+
+```python
+a = 1
+if a == 1:
+  print("Yes")
+else:
+  print("No")
+```
