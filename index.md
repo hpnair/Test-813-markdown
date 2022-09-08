@@ -14,3 +14,7 @@ if a == 1:
 else:
   print("No")
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
